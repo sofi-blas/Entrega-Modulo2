@@ -7,7 +7,7 @@
 - Rocio Negroni: https://github.com/negroni-rocio/Modulo-2
 - Luciana Gallina: 
 - Bianca Lombardo: https://github.com/BiancaLombardo/modulo2
-- Camila Sepulveda: 
+- Camila Sepulveda: https://github.com/camilasepulveda/Modulo-2
 - Eugenio Alastra: https://github.com/EugenioAlastra/Modulo2
 
 |Apellido|Nombre|Whatsapp o teléfono|Correo|Links|
@@ -17,4 +17,4 @@
 |Gallina|Luciana|2617215095|lucigallina07@gmail.com| |
 |Lombardo|Bianca|2616161351|biancanicolelombardo@gmail.com|https://github.com/BiancaLombardo/modulo2|
 |Negroni|Rocio|2615689559|rocio.a.negroni@gmail.com|https://github.com/negroni-rocio/Modulo-2|
-|Sepúlveda|Camila|2612547791|camila.sepulveda1441@gmail.com| |
+|Sepúlveda|Camila|2612547791|camila.sepulveda1441@gmail.com|https://github.com/camilasepulveda/Modulo-2 |
